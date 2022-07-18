@@ -24,7 +24,7 @@ ___
 <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
 
 🏙️ I'm Frontend Developer living in Tomsk. <br>  
-⭐ I'm currently learning React.<br>  
+⭐ I'm regularly learning and trying out various new technologies. I'm currently learning React.<br>  
 ❤️ I like:
 
 - 🚴 bike
