@@ -53,7 +53,7 @@ ___
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skro11-ru&theme=default&hide_border=false)
 
-___  
-<h3><font size="5"> 🏆 GitHub Trophies: </font></h3>
+[//]: # (___  )
+[//]: # (<h3><font size="5"> 🏆 GitHub Trophies: </font></h3>)
 
-![](https://github-profile-trophy.vercel.app/?username=Skro11-ru&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+[//]: # (![]&#40;https://github-profile-trophy.vercel.app/?username=Skro11-ru&theme=flat&no-frame=false&no-bg=false&margin-w=4&#41;)
