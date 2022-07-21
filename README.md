@@ -8,12 +8,15 @@
 Dmitry Bunetsky </font></h3>
 
 <div id="badges" align="center" >  
+<a href="https://dmitry-cv.netlify.app/" target="_blank">  
+  <img src="https://img.shields.io/badge/My CV-red?style=flat&logo=Readthedocs&logoColor=white" alt="my-cv Badge"/>  
+  </a>  
 <a href="https://t.me/skro11" target="_blank">  
   <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
-  </a>  
+  </a>
 <a href="mailto:bunetskydn@gmail.com" target="_blank">  
   <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>  
-  </a>  
+  </a> 
  <a href="https://www.linkedin.com/in/dmitrybunetsky/" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
   </a>  
@@ -23,15 +26,15 @@ ___
 <h3><font size="5"> 🙍 About me: </font></h3>  
 <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=200 />
 
-🏙️ I'm Frontend Developer living in Tomsk. <br>  
-⭐ I'm currently learning React.<br>  
+🏙️ I'm Frontend Developer. <br>  
+⭐ I spend a lot of time on self-education, I am not afraid of difficulties and complex tasks. Currently studying React, Redux. Ready to learn a new technology stack, which will be useful to me during my work.<br>  
 ❤️ I like:
 
-- 🚴 bike
-- 🎿 ski
-- 🤖 new technologies
+- 🚴 cycling
+- 🎿 hit the slopes
+- 🤖 learn about new technologies
 
-...and 🧑‍💻 coding of course
+...and 🧑‍💻 developing of course 😄
 
 ___  
 <h3><font size="5"> 💻 Tech Stack: </font></h3>
@@ -53,7 +56,7 @@ ___
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skro11-ru&theme=default&hide_border=false)
 
-___  
-<h3><font size="5"> 🏆 GitHub Trophies: </font></h3>
+[//]: # (___  )
+[//]: # (<h3><font size="5"> 🏆 GitHub Trophies: </font></h3>)
 
-![](https://github-profile-trophy.vercel.app/?username=Skro11-ru&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+[//]: # (![]&#40;https://github-profile-trophy.vercel.app/?username=Skro11-ru&theme=flat&no-frame=false&no-bg=false&margin-w=4&#41;)
